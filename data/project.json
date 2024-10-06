@@ -1,21 +1,26 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "zeigerbecca",
+    "title": "Baby Face",
+    "description": "Comparative transcriptions of parallel scenes from the uncensored and theatrical versions of Baby Face (1933).",
+    "language": "en",
+    "slug": "baby-face-censorship-comparison",
+    "creator": "zeigerbecca",
+    "authors": "Rebecca Zeiger",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-10-06T21:13:30.815Z",
+    "updated_at": "2024-10-06T21:13:30.815Z"
   }
 }
