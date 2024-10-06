@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 708,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Nietzsche- Will to Power)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ddbae62-9e8e-4ff8-9c0c-3d8bf383173e"
+    }
+  ],
   "event_id": "fc51c312-a533-4b69-b01c-eed3f6e1b236",
   "set": "Uncensored",
   "source_id": "5fe6d883-3c61-4dc9-8031-67f5975b1b55"
