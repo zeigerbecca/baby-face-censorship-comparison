@@ -316,7 +316,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "That's what I'm telling you."
+              "text": "That's what I'm telling you.",
+              "highlight": "#b3f7ff"
             }
           ]
         }
