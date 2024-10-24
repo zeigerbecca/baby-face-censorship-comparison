@@ -228,7 +228,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "But you must use men."
+              "text": "But you must use men.",
+              "highlight": "#b3f7ff"
             }
           ]
         }
