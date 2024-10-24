@@ -519,7 +519,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Crush out all sentiment."
+              "text": "Crush out all sentiment.",
+              "highlight": "#b3f7ff"
             }
           ]
         }
