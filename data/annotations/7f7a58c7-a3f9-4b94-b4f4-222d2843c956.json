@@ -435,7 +435,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Use men to get the things you want!"
+              "text": "Use men to get the things you want!",
+              "highlight": "#b3f7ff"
             }
           ]
         }
