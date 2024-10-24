@@ -52,7 +52,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I mean it. "
+              "text": "I mean it. ",
+              "highlight": "#ffd1fd"
             }
           ]
         }
