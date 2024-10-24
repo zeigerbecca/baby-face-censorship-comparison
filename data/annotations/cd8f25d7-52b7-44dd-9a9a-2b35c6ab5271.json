@@ -269,7 +269,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You must be a master, not a slave."
+              "text": "You must be a master, not a slave.",
+              "highlight": "#ffd1fd"
             }
           ]
         }
