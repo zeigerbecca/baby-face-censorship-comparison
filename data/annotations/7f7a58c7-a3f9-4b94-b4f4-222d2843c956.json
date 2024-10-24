@@ -294,7 +294,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Look here, Nietzsche says all life, no matter how we idealize it, is nothing more nor less than exploitation. "
+              "text": "Look here, Nietzsche says all life, no matter how we idealize it, is nothing more nor less than exploitation. ",
+              "highlight": "#b3f7ff"
             }
           ]
         }
