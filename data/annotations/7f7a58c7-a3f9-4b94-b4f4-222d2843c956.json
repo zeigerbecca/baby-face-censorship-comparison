@@ -250,7 +250,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Not let them use you."
+              "text": "Not let them use you.",
+              "highlight": "#b3f7ff"
             }
           ]
         }
