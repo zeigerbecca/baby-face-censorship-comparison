@@ -477,7 +477,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Face life as you find it-defiantly and unafraid."
+              "text": "Face life as you find it-defiantly and unafraid.",
+              "highlight": "#b3f7ff"
             }
           ]
         }
