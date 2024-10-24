@@ -360,7 +360,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Go to some big city where you will find opportunities!"
+              "text": "Go to some big city where you will find opportunities!",
+              "highlight": "#ffd1fd"
             }
           ]
         }
