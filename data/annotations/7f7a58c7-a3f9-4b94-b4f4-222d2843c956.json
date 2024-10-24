@@ -404,7 +404,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Be strong!"
+              "text": "Be strong!",
+              "highlight": "#ffd1fd"
             }
           ]
         }
