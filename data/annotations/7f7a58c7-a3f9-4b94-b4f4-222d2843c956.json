@@ -338,7 +338,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Exploit yourself!"
+              "text": "Exploit yourself!",
+              "highlight": "#b3f7ff"
             }
           ]
         }
