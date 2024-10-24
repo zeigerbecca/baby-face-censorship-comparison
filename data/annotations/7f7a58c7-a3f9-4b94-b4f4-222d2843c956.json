@@ -162,7 +162,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "More chance than men."
+              "text": "More chance than men.",
+              "highlight": "#ffd1fd"
             }
           ]
         }
