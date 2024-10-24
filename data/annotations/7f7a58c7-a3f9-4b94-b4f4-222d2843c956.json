@@ -382,7 +382,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Use men!"
+              "text": "Use men!",
+              "highlight": "#b3f7ff"
             }
           ]
         }
