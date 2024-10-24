@@ -140,7 +140,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "(What chance has a woman got?)"
+              "text": "(What chance has a woman got?)",
+              "highlight": "#ffc7f8"
             }
           ]
         }
