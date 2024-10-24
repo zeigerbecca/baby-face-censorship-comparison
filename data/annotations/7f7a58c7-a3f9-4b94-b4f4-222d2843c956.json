@@ -206,7 +206,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Because you have power over men."
+              "text": "Because you have power over men.",
+              "highlight": "#b3f7ff"
             }
           ]
         }
