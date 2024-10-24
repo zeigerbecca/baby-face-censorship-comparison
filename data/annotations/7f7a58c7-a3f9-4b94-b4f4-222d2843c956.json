@@ -184,7 +184,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A woman young, beautiful like you are can get anything she wants in the world. "
+              "text": "A woman young, beautiful like you are can get anything she wants in the world. ",
+              "highlight": "#ffd1fd"
             }
           ]
         }
