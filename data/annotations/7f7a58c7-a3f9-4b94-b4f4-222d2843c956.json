@@ -414,7 +414,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Defiant!"
+              "text": "Defiant!",
+              "highlight": "#b3f7ff"
             }
           ]
         }
