@@ -96,7 +96,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You let life defeat you."
+              "text": "You let life defeat you.",
+              "highlight": "#ffccfb"
             }
           ]
         }
