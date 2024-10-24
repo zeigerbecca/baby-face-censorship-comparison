@@ -498,7 +498,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Waste no energy yearning for the moon. "
+              "text": "Waste no energy yearning for the moon. ",
+              "highlight": "#b3f7ff"
             }
           ]
         }
