@@ -118,7 +118,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You don't fight back."
+              "text": "You don't fight back.",
+              "highlight": "#ffc7fa"
             }
           ]
         }
