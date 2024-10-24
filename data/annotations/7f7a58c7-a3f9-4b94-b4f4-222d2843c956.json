@@ -52,7 +52,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You're a coward."
+              "text": "You're a coward.",
+              "highlight": "#ffccfb"
             }
           ]
         }
