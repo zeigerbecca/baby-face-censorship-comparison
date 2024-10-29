@@ -392,7 +392,8 @@
           "children": [
             {
               "text": "Use men!",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
