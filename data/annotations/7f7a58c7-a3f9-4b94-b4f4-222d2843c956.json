@@ -9,7 +9,8 @@
           "children": [
             {
               "text": "(Nietzsche- Will to Power)",
-              "highlight": "#ccfeff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
