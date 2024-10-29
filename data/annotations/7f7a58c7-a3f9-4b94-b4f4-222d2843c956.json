@@ -256,7 +256,8 @@
           "children": [
             {
               "text": "Not let them use you.",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
