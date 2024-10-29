@@ -233,7 +233,8 @@
           "children": [
             {
               "text": "But you must use men.",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
