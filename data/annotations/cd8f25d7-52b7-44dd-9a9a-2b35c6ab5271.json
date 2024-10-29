@@ -483,14 +483,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You are still a coward."
+              "text": "You are still a coward.",
+              "bold": true,
+              "italic": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
