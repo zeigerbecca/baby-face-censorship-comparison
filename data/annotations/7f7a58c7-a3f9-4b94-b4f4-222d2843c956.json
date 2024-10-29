@@ -459,7 +459,8 @@
           "children": [
             {
               "text": "Use men to get the things you want!",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
