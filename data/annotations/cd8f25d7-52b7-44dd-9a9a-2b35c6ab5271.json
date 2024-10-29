@@ -184,14 +184,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "But there is a right and a wrong way."
+              "text": "But there is a right and a wrong way.",
+              "highlight": "#d6ffc7"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
