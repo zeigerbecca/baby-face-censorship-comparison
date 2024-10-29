@@ -252,14 +252,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Don't let people mislead you."
+              "text": "Don't let people mislead you.",
+              "highlight": "#c1f4ae",
+              "bold": true
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
