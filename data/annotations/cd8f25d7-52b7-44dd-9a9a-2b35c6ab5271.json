@@ -297,14 +297,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Be clean!"
+              "text": "Be clean!",
+              "bold": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
