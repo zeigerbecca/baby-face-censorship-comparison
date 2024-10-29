@@ -555,7 +555,8 @@
             {
               "text": "Crush out all sentiment.",
               "highlight": "#c4fcfd",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ]
         }
