@@ -459,14 +459,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You have chosen the wrong way."
+              "text": "You have chosen the wrong way.",
+              "bold": true,
+              "italic": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
