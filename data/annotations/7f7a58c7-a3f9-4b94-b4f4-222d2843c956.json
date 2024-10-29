@@ -119,8 +119,8 @@
           "children": [
             {
               "text": "You don't fight back.",
-              "highlight": "#ffc7fa",
-              "bold": true
+              "highlight": "#ffe5ee",
+              "color": "#000000"
             }
           ]
         }
