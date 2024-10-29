@@ -579,14 +579,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Adolf Cragg"
+              "text": "Adolf Cragg",
+              "bold": true,
+              "italic": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
