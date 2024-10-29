@@ -506,7 +506,8 @@
           "children": [
             {
               "text": "Face life as you find it-defiantly and unafraid.",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
