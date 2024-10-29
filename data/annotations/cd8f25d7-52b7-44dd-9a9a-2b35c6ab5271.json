@@ -434,14 +434,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "From your letters, I can tell that my advice to you was for nothing. "
+              "text": "From your letters, I can tell that my advice to you was for nothing. ",
+              "highlight": "#c1f4ae",
+              "bold": true
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
