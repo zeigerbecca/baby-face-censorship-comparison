@@ -555,14 +555,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Merry Christmas."
+              "text": "Merry Christmas.",
+              "highlight": "#c1f4ae",
+              "bold": true,
+              "italic": true
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
