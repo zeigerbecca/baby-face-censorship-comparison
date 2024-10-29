@@ -531,14 +531,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I send you this book, hoping that you will allow it to guide you right."
+              "text": "I send you this book, hoping that you will allow it to guide you right.",
+              "bold": true,
+              "italic": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
