@@ -207,14 +207,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Remember the price of the wrong way is too great. "
+              "text": "Remember the price of the wrong way is too great. ",
+              "bold": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
