@@ -507,7 +507,8 @@
             {
               "text": "Face life as you find it-defiantly and unafraid.",
               "highlight": "#c4fcfd",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ]
         }
