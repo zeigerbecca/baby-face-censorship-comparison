@@ -413,7 +413,8 @@
             {
               "text": "Dear Lilly,",
               "bold": true,
-              "highlight": "#c1f4ae"
+              "highlight": "#c1f4ae",
+              "italic": true
             }
           ]
         }
