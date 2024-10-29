@@ -531,7 +531,8 @@
             {
               "text": "Waste no energy yearning for the moon. ",
               "highlight": "#c4fcfd",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ]
         }
