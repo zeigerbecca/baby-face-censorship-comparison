@@ -552,7 +552,8 @@
           "children": [
             {
               "text": "Crush out all sentiment.",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
