@@ -411,14 +411,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Dear Lilly,"
+              "text": "Dear Lilly,",
+              "bold": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
