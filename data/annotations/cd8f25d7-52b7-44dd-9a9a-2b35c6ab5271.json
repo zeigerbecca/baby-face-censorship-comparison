@@ -387,14 +387,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "(Stanley's Christian Institutions)"
+              "text": "(Stanley's Christian Institutions)",
+              "bold": true,
+              "italic": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
