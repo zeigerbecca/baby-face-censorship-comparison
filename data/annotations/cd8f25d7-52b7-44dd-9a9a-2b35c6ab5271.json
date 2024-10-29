@@ -185,7 +185,8 @@
           "children": [
             {
               "text": "But there is a right and a wrong way.",
-              "highlight": "#d6ffc7"
+              "highlight": "#c1f4ae",
+              "bold": true
             }
           ]
         }
