@@ -437,7 +437,8 @@
             {
               "text": "From your letters, I can tell that my advice to you was for nothing. ",
               "highlight": "#c1f4ae",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ]
         }
