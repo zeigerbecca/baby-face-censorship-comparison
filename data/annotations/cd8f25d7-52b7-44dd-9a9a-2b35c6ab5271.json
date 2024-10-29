@@ -507,14 +507,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Life will defeat you unless you fight back and regain your self respect. "
+              "text": "Life will defeat you unless you fight back and regain your self respect. ",
+              "bold": true,
+              "italic": true,
+              "highlight": "#c1f4ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
