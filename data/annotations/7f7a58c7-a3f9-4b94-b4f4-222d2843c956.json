@@ -529,7 +529,8 @@
           "children": [
             {
               "text": "Waste no energy yearning for the moon. ",
-              "highlight": "#b3f7ff"
+              "highlight": "#c4fcfd",
+              "bold": true
             }
           ]
         }
