@@ -4,14 +4,23 @@
       "label": "Uncensored Baby Face",
       "is_offline": false,
       "file_url": "https://www.youtube.com/watch?v=vK60jBkWQ1E",
-      "duration": 152
+      "duration": 152,
+      "caption_set": [
+        {
+          "annotation_page_id": "bdf81e37-b96d-485d-82e3-5c162ad5d74c"
+        }
+      ]
     },
     "886b36ec-6a4d-4784-a9df-5fdc99097833": {
       "label": "Censored Baby Face",
       "is_offline": false,
       "file_url": "https://www.youtube.com/watch?v=osSvD_fPeQI",
       "duration": 148,
-      "caption_set": []
+      "caption_set": [
+        {
+          "annotation_page_id": "cd8f25d7-52b7-44dd-9a9a-2b35c6ab5271"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -30,6 +39,6 @@
   "label": "Baby Face (1933)",
   "created_at": "2024-10-06T21:22:12.631Z",
   "created_by": "zeigerbecca",
-  "updated_at": "2025-01-17T04:35:36.095Z",
+  "updated_at": "2025-01-17T04:40:01.498Z",
   "updated_by": "zeigerbecca"
 }
