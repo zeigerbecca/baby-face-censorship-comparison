@@ -17,8 +17,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "ajolipa",
-        "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
         "admin": false
       }
     ],
@@ -61,7 +61,7 @@
       ]
     },
     "created_at": "2024-10-06T21:13:30.815Z",
-    "updated_at": "2025-01-17T04:39:08.340Z",
+    "updated_at": "2025-01-19T21:27:48.262Z",
     "generate_pages_site": true,
     "is_private": false
   },
