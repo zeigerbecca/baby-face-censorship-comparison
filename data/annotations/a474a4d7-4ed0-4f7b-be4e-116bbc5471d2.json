@@ -557,14 +557,15 @@
             {
               "text": "Merry Christmas.",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
