@@ -44,10 +44,6 @@
         },
         {
           "category": "Uncensored",
-          "tag": "Same"
-        },
-        {
-          "category": "Uncensored",
           "tag": "Censored"
         },
         {
@@ -61,7 +57,7 @@
       ]
     },
     "created_at": "2024-10-06T21:13:30.815Z",
-    "updated_at": "2025-01-21T20:57:10.192Z",
+    "updated_at": "2025-01-21T20:58:35.176Z",
     "generate_pages_site": true,
     "is_private": false
   },
