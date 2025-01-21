@@ -458,15 +458,10 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Nietzche-",
-              "highlight": "#c4fcfd",
-              "bold": true
-            },
-            {
-              "italic": true,
+              "text": "(Nietzche- Thoughts Out of Season)",
               "highlight": "#c4fcfd",
               "bold": true,
-              "text": " Thoughts Out of Season"
+              "italic": true
             }
           ]
         }
