@@ -133,21 +133,22 @@
       "uuid": "e0a2a780-e552-4db7-8d50-3904b2fc0b17"
     },
     {
-      "start_time": 709,
-      "end_time": 711,
+      "start_time": 65,
+      "end_time": 67,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "More chance than men. "
+              "text": "More chance than men. ",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
