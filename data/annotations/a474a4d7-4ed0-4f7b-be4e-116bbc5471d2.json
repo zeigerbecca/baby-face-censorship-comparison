@@ -52,14 +52,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I mean it. "
+              "text": "I mean it. ",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
