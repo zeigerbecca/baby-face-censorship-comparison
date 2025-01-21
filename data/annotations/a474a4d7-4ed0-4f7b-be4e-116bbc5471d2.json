@@ -313,21 +313,22 @@
       "uuid": "61fc2bef-2eb5-4a8b-889f-f71b2d25e6f9"
     },
     {
-      "start_time": 731,
-      "end_time": 732,
+      "start_time": 88,
+      "end_time": 89,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Be strong!"
+              "text": "Be strong!",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
