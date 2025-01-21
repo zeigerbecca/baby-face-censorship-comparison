@@ -335,21 +335,22 @@
       "uuid": "630592e0-309e-49c9-8823-88b3c21ab464"
     },
     {
-      "start_time": 732,
-      "end_time": 733,
+      "start_time": 89,
+      "end_time": 90,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Defiant!"
+              "text": "Defiant!",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
