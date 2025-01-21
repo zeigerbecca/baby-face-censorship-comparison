@@ -552,29 +552,6 @@
       "uuid": "d26054fa-79f4-47bb-8e2a-2ca9ee7d7302"
     },
     {
-      "start_time": 2230,
-      "end_time": 2232,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "(Stanley's Christian Institutions)",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "320be5c4-8946-411b-841a-d48d3439955b"
-    },
-    {
       "start_time": 2235,
       "end_time": 2247,
       "annotation": [
