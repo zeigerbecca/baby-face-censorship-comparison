@@ -559,29 +559,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Dear Lilly,",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "13e799de-c946-448e-9c59-020ee59df9c3"
-    },
-    {
-      "start_time": 2235,
-      "end_time": 2247,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "From your letters, I can tell that my advice to you was for nothing. ",
               "italic": true,
               "bold": true
