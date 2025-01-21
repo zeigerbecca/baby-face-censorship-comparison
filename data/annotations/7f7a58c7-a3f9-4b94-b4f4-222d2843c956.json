@@ -559,29 +559,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You have chosen the wrong way.",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "38955737-772e-4cb7-899b-47939c5af04b"
-    },
-    {
-      "start_time": 2235,
-      "end_time": 2247,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "You are still a coward.",
               "italic": true,
               "bold": true
