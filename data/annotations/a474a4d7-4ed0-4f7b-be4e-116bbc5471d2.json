@@ -118,14 +118,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "(What chance has a woman got?)"
+              "text": "(What chance has a woman got?)",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
