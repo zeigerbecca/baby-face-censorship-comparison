@@ -572,8 +572,8 @@
       "uuid": "3fdf9651-2e70-4d6c-ba4c-00ef4b6fb1c9"
     },
     {
-      "start_time": 2251,
-      "end_time": 2257,
+      "start_time": 129,
+      "end_time": 135,
       "annotation": [
         {
           "type": "paragraph",
@@ -581,14 +581,15 @@
             {
               "text": "Adolf Cragg",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
