@@ -559,29 +559,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Merry Christmas.",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "41d75471-d50f-4edf-bbc8-b74c4d45ac7f"
-    },
-    {
-      "start_time": 2251,
-      "end_time": 2257,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Adolf Cragg",
               "italic": true,
               "bold": true
