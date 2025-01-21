@@ -1,40 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 708,
-      "end_time": 711,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "(Nietzsche- ",
-              "highlight": "#c4fcfd",
-              "bold": true
-            },
-            {
-              "highlight": "#c4fcfd",
-              "bold": true,
-              "text": "Will to Power",
-              "italic": true
-            },
-            {
-              "highlight": "#c4fcfd",
-              "bold": true,
-              "text": ")"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Uncensored"
-        }
-      ],
-      "uuid": "f2cc5242-cf27-4a99-8a9b-bd82b8981ba8"
-    },
-    {
       "start_time": 770,
       "end_time": 773,
       "annotation": [
