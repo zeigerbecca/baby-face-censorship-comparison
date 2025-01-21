@@ -559,29 +559,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "From your letters, I can tell that my advice to you was for nothing. ",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "fdc5a126-859d-4ec8-924b-5b3f40c98e1e"
-    },
-    {
-      "start_time": 2235,
-      "end_time": 2247,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "You have chosen the wrong way.",
               "italic": true,
               "bold": true
