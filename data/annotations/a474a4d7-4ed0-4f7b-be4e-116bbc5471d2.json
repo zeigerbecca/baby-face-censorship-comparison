@@ -89,21 +89,22 @@
       "uuid": "40ac77d7-916d-4383-98c4-fd7e9c473cfd"
     },
     {
-      "start_time": 705,
-      "end_time": 707,
+      "start_time": 61,
+      "end_time": 63,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "You don't fight back."
+              "text": "You don't fight back.",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
