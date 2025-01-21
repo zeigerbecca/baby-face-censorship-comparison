@@ -559,29 +559,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I send you this book, hoping that you will allow it to guide you right.",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "140506fe-3c02-44dd-bb70-276dc1400135"
-    },
-    {
-      "start_time": 2251,
-      "end_time": 2257,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Merry Christmas.",
               "italic": true,
               "bold": true
