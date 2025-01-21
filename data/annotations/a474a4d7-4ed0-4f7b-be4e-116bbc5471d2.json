@@ -428,8 +428,8 @@
       "uuid": "4166b7a0-8229-49cd-82dc-b143908e68b5"
     },
     {
-      "start_time": 2235,
-      "end_time": 2247,
+      "start_time": 114,
+      "end_time": 126,
       "annotation": [
         {
           "type": "paragraph",
@@ -437,14 +437,15 @@
             {
               "text": "From your letters, I can tell that my advice to you was for nothing. ",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
