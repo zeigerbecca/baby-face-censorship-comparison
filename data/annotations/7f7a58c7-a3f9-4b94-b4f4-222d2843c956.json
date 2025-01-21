@@ -552,28 +552,6 @@
       "uuid": "d26054fa-79f4-47bb-8e2a-2ca9ee7d7302"
     },
     {
-      "start_time": 730,
-      "end_time": 731,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Be clean!",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "045a46b6-789b-45a8-924b-3ef6c8a6b572"
-    },
-    {
       "start_time": 731,
       "end_time": 732,
       "annotation": [
