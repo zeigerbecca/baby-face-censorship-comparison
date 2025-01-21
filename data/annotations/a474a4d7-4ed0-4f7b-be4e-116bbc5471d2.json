@@ -500,8 +500,8 @@
       "uuid": "982efc71-dc06-4d47-949a-b8b619995425"
     },
     {
-      "start_time": 2251,
-      "end_time": 2257,
+      "start_time": 129,
+      "end_time": 135,
       "annotation": [
         {
           "type": "paragraph",
@@ -509,14 +509,15 @@
             {
               "text": "Life will defeat you unless you fight back and regain your self respect. ",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
