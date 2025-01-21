@@ -380,8 +380,8 @@
       "uuid": "1b91b5aa-c322-47ea-a848-83adf7e73fea"
     },
     {
-      "start_time": 2230,
-      "end_time": 2232,
+      "start_time": 108,
+      "end_time": 110,
       "annotation": [
         {
           "type": "paragraph",
@@ -389,14 +389,15 @@
             {
               "text": "(Stanley's Christian Institutions)",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
