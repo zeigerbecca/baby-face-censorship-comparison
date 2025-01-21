@@ -452,8 +452,8 @@
       "uuid": "5444cc25-d657-42b8-a07b-40b6929899fa"
     },
     {
-      "start_time": 2235,
-      "end_time": 2247,
+      "start_time": 114,
+      "end_time": 126,
       "annotation": [
         {
           "type": "paragraph",
@@ -461,14 +461,15 @@
             {
               "text": "You have chosen the wrong way.",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
