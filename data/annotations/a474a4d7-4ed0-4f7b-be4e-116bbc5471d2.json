@@ -268,21 +268,22 @@
       "uuid": "0d6932d1-3413-41bd-8515-536f28ae7a02"
     },
     {
-      "start_time": 727,
-      "end_time": 730,
+      "start_time": 83,
+      "end_time": 86,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "You must be a master, not a slave."
+              "text": "You must be a master, not a slave.",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
