@@ -223,21 +223,22 @@
       "uuid": "f19536a9-36e1-4e6e-810b-68d430c84276"
     },
     {
-      "start_time": 721,
-      "end_time": 725,
+      "start_time": 77,
+      "end_time": 81,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Go to some big city where you will find opportunities!"
+              "text": "Go to some big city where you will find opportunities!",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
