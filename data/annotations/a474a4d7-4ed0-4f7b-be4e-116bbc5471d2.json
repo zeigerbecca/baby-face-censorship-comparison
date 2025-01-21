@@ -155,21 +155,22 @@
       "uuid": "58856979-5156-497f-817d-73a98bf755e3"
     },
     {
-      "start_time": 711,
-      "end_time": 716,
+      "start_time": 67,
+      "end_time": 72,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "A woman young, beautiful like you are can get anything she wants in the world. "
+              "text": "A woman young, beautiful like you are can get anything she wants in the world. ",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
