@@ -550,6 +550,30 @@
         }
       ],
       "uuid": "d26054fa-79f4-47bb-8e2a-2ca9ee7d7302"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Nietzsche- Will to Power)",
+              "highlight": "#c4fdfd",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncensored",
+          "tag": "Uncensored"
+        }
+      ],
+      "uuid": "fffd0feb-53f7-4f89-8d29-265403e44099"
     }
   ],
   "event_id": "fc51c312-a533-4b69-b01c-eed3f6e1b236",
