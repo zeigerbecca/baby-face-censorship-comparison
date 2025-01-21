@@ -552,29 +552,6 @@
       "uuid": "d26054fa-79f4-47bb-8e2a-2ca9ee7d7302"
     },
     {
-      "start_time": 2235,
-      "end_time": 2247,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "You are still a coward.",
-              "italic": true,
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Uncensored",
-          "tag": "Censored"
-        }
-      ],
-      "uuid": "251b3966-3d31-4b17-a683-ef1bb8ef3319"
-    },
-    {
       "start_time": 2251,
       "end_time": 2257,
       "annotation": [
