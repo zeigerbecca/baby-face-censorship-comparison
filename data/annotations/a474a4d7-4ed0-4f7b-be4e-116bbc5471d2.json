@@ -177,22 +177,23 @@
       "uuid": "2e9cda68-5ac3-4a70-96f0-cc698c8e14ed"
     },
     {
-      "start_time": 716,
-      "end_time": 718,
+      "start_time": 72,
+      "end_time": 74,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
               "text": "But there is a right and a wrong way.",
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
