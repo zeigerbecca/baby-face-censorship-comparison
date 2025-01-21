@@ -67,21 +67,22 @@
       "uuid": "8b3eb79e-0bb2-4c9f-9adc-738ec6f0c5f2"
     },
     {
-      "start_time": 704,
-      "end_time": 705,
+      "start_time": 60,
+      "end_time": 61,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "You let life defeat you"
+              "text": "You let life defeat you",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
