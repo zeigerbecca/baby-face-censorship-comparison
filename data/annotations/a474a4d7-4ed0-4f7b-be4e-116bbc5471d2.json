@@ -524,8 +524,8 @@
       "uuid": "59c78ec4-878d-4f96-94b6-8bbe5c0fa3c2"
     },
     {
-      "start_time": 2251,
-      "end_time": 2257,
+      "start_time": 129,
+      "end_time": 135,
       "annotation": [
         {
           "type": "paragraph",
@@ -533,14 +533,15 @@
             {
               "text": "I send you this book, hoping that you will allow it to guide you right.",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
