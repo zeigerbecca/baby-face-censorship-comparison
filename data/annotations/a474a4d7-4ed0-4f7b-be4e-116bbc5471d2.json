@@ -23,21 +23,22 @@
       "uuid": "f2285648-a315-40a5-aa3c-b71df6931aa5"
     },
     {
-      "start_time": 702,
-      "end_time": 703,
+      "start_time": 58,
+      "end_time": 60,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "You're a coward."
+              "text": "You're a coward.",
+              "highlight": "#ffe5ee"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Same",
           "tag": "Same"
         }
       ],
