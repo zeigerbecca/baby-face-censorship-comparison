@@ -245,22 +245,23 @@
       "uuid": "2cd9eb3b-48ee-43ac-916c-3950cf8aaac8"
     },
     {
-      "start_time": 725,
-      "end_time": 727,
+      "start_time": 81,
+      "end_time": 83,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
               "text": "Don't let people mislead you.",
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
