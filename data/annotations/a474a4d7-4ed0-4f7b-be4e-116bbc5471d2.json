@@ -404,8 +404,8 @@
       "uuid": "2be1ef72-4d71-4c55-acc3-373adbef9fd9"
     },
     {
-      "start_time": 2235,
-      "end_time": 2247,
+      "start_time": 114,
+      "end_time": 126,
       "annotation": [
         {
           "type": "paragraph",
@@ -413,14 +413,15 @@
             {
               "text": "Dear Lilly,",
               "italic": true,
-              "bold": true
+              "bold": true,
+              "highlight": "#c2f5ae"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Uncensored",
+          "category": "Censored",
           "tag": "Censored"
         }
       ],
